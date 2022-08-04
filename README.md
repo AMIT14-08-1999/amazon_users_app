@@ -18,3 +18,4 @@ samples, guidance on mobile development, and a full API reference.
  Download -----------------------------------------------------------------------------
 
 - https://github.com/AMIT14-08-1999/adminWebPortal
+- https://github.com/AMIT14-08-1999/Amazon_Admin_Panel
